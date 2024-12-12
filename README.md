@@ -2,7 +2,7 @@
   <img src="https://steamuserimages-a.akamaihd.net/ugc/1709660933254312726/649C006B7A8D8EE5420B99F1F7311DB19AB263AB/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Centered GIF" style="max-width: 100%; height: auto;">
 </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Trong;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thái;" />
 </h1>
 
 <h3 align="center">I am a Back-End Software Engineer</h3>
