@@ -23,7 +23,12 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=spring,hibernate,java,idea,mysql" />
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,java,mysql" />
 </div>
+</p>
 
+<p align="center">
+<img src="https://safebooru.org//images/4426/25fe65cbd2f79138d845887dcf2fdbe472fdc439.gif" alt="Centered GIF" style="max-width: 100%; height: auto;">
+</p>
 
+</div>
